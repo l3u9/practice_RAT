@@ -1,0 +1,8 @@
+﻿  fun.cpp
+     Creating library C:\Users\User\source\repos\EthicalRAT\Release\FunDll.lib and object C:\Users\User\source\repos\EthicalRAT\Release\FunDll.exp
+  Generating code
+  1 of 1 functions (100.0%) were compiled.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  EthicalRAT.vcxproj -> C:\Users\User\source\repos\EthicalRAT\Release\FunDll.dll
